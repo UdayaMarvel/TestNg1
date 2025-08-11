@@ -8,6 +8,19 @@ public class NewClass {
 		System.setProperty("webdriver.edge.driver", "D:\\Workspace\\TestNg\\src\\test\\resources\\Drivers\\msedgedriver.exe");
 		WebDriver driver = new EdgeDriver();
 		driver.get("https://www.google.com");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
