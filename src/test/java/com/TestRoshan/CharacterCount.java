@@ -24,7 +24,7 @@ public class CharacterCount  {
 
         //System.out.println("Total characters (excluding spaces): " + charCount);
         //System.out.println("Total characters (including spaces): " + charCountLn);
-        //sc.close();
+        sc.close();
 	
 	
 
