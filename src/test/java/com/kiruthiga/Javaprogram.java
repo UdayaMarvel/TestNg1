@@ -11,7 +11,7 @@ public class Javaprogram {
 			System.out.println(chart);
 			if(chart=='l') {
 				System.out.println("index position of "+k);
-				System.out.println("index position of");
+				
 				
 				
 			}
