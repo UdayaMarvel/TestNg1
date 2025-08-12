@@ -1,6 +1,6 @@
-package com.Application;
+package Java1;
 
-public class Buvi {
+public class Github {
 	public static void main(String[] args) {
 		String text="Welcome to the wonder world package";
 		int len =text.length();
@@ -17,3 +17,5 @@ public class Buvi {
 
 }
 }
+
+
