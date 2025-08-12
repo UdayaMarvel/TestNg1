@@ -21,26 +21,20 @@ public class CharacterCount  {
         //int charCountLn = input.length();
         
         // Display result
-<<<<<<< HEAD
+
         //System.out.println("Total characters (excluding spaces): " + charCount);
         //System.out.println("Total characters (including spaces): " + charCountLn);
         //sc.close();
 	
 	
-=======
-        System.out.println("Total characters (excluding spaces): " + charCount);
-        System.out.println("Total characters (including spaces): " + charCountLn);
-        sc.close();
->>>>>>> 3f7a3777d32f599b278352fc29069a9b5c9446b5
+
         
         
         
         
-<<<<<<< HEAD
-=======
-             
-        
->>>>>>> 3f7a3777d32f599b278352fc29069a9b5c9446b5
+
+
+
 	}
 
 }
