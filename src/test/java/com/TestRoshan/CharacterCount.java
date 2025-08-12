@@ -18,12 +18,18 @@ public class CharacterCount  {
             }
         }
         
-        int charCountLn = input.length();
+        //int charCountLn = input.length();
         
         // Display result
-        System.out.println("Total characters (excluding spaces): " + charCount);
-        System.out.println("Total characters (including spaces): " + charCountLn);
-        sc.close();
+        //System.out.println("Total characters (excluding spaces): " + charCount);
+        //System.out.println("Total characters (including spaces): " + charCountLn);
+        //sc.close();
+	
+	
+        
+        
+        
+        
 	}
 
 }
